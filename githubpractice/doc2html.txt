@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+     <meta charset="UTF-8" />
+     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+     <title>Document</title>
+  </head>
+  <body>
+    <table>
+        <tr>
+           <th><b>STUDENT NAME</b></th>
+           <th><b>TAMIL MARK</b></th>
+           <th><b>ENGLISH MARK</b></th>
+           <th><b>MATH MARK</b></th>
+           <th><b>CLASS MENTOR NAME</b></th>
+           <th><b>MENTOR CONTACT NUMBER</b></th>
+        </tr>
+        <tr>
+           <td><i>harini</i></td>
+           <td><i>90</i></td>
+           <td><i>90</i></td>
+           <td><i>90</i></td>
+           <td><i>subbu</i></td>
+           <td><i>9878876776</i></td>
+        </tr>
+        <tr>
+           <td><i>meenaa</i></td>
+           <td><i>98</i></td>
+           <td><i>92</i></td>
+           <td><i>90</i></td>
+           <td><i>kavitha</i></td>
+           <td><i>7879876770</i></td>
+        </tr>
+        <tr>
+           <td><i>teenaa</i></td>
+           <td><i>80</i></td>
+           <td><i>96</i></td>
+           <td><i>94</i></td>
+           <td><i>vanitha</i></td>
+           <td><i>6878776775</i></td>
+          </tr>
+    </table>
+  </body>
+</html>
